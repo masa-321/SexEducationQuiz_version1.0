@@ -14,6 +14,7 @@
 		1005CDFD20BD43130095C09B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1005CDFB20BD43130095C09B /* LaunchScreen.storyboard */; };
 		1005CE0820BD43130095C09B /* SexEducationQuiz_version1_0Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1005CE0720BD43130095C09B /* SexEducationQuiz_version1_0Tests.swift */; };
 		1005CE1320BD43130095C09B /* SexEducationQuiz_version1_0UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1005CE1220BD43130095C09B /* SexEducationQuiz_version1_0UITests.swift */; };
+		10674C3320C01D1F007AFF0F /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10674C3220C01D1F007AFF0F /* ResultViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		1005CE0E20BD43130095C09B /* SexEducationQuiz_version1.0UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SexEducationQuiz_version1.0UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1005CE1220BD43130095C09B /* SexEducationQuiz_version1_0UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SexEducationQuiz_version1_0UITests.swift; sourceTree = "<group>"; };
 		1005CE1420BD43130095C09B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		10674C3220C01D1F007AFF0F /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				1005CDF220BD43110095C09B /* AppDelegate.swift */,
 				1005CDF420BD43110095C09B /* ViewController.swift */,
 				1005CDF620BD43110095C09B /* Main.storyboard */,
+				10674C3220C01D1F007AFF0F /* ResultViewController.swift */,
 				1005CDF920BD43130095C09B /* Assets.xcassets */,
 				1005CDFB20BD43130095C09B /* LaunchScreen.storyboard */,
 				1005CDFE20BD43130095C09B /* Info.plist */,
@@ -258,6 +261,7 @@
 			files = (
 				1005CDF520BD43110095C09B /* ViewController.swift in Sources */,
 				1005CDF320BD43110095C09B /* AppDelegate.swift in Sources */,
+				10674C3320C01D1F007AFF0F /* ResultViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
