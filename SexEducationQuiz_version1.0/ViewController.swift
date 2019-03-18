@@ -20,6 +20,8 @@ class ViewController: UIViewController {
     //Pullを使用としたらcommitをしろと止められた
     //commitをしてからpullをしても、変更点は消えなかった。
     //pushをしたら、リモートに反映された。
+    //さらにcommitをしてからpullをしたらリモートに反映された
+    
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
