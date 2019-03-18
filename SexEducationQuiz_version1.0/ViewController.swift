@@ -16,6 +16,10 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
     }
+    
+    //Pullを使用としたらcommitをしろと止められた
+    //commitをしてからpullをしても、変更点は消えなかった。
+    //pushをしたら、リモートに反映された。
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
